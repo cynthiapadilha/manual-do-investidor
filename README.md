@@ -3,6 +3,7 @@
 Este projeto foi desenvolvido com o objetivo de aplicar **Inteligência Artificial Generativa** (via **NotebookLM**) na educação financeira de iniciantes.  
 O foco está em explicar conceitos fundamentais de investimentos, como **risco, retorno e estratégias de alocação de ativos**, de forma acessível e interativa.
 
+https://notebooklm.google.com/notebook/662b1227-df9c-482b-9ca7-f982c0617451
 ---
 
 ## 🎯 Objetivo do Projeto
